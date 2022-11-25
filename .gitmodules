@@ -1,3 +1,4 @@
 [submodule "submarine"]
 	path = submarine
 	url = https://github.com/Magamanny/submarine.git
+	branch=main
